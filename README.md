@@ -9,7 +9,7 @@ I'm a 22 years old developer and hacking since I was 14. I love to code and figu
 I am also a student at [Doctum | JM](https://doctum.edu.br). Lawyer
 
 * 🌍  I'm based in Rio Piracicaba - MG, Brazil
-* ✉️  You can contact me at [beedfialho@gmail.com](mailto:beedfialho@gmail.com)
+* ✉️  You can contact me at [travelerastro@gmail.com](mailto:travelerastro@gmail.com)
 * 🚀  I'm currently working on [Ankares](http://ankares.com)
 * 🧠  I'm learning Advanced Java, Unit Tests and C/C++ programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
